@@ -8,3 +8,4 @@
 
 - Projedeki Navigasyon sisteminin kurulması
 # Note-App
+![](TypeScript-Note-App.gif)
